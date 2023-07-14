@@ -107,50 +107,18 @@ Locale createLocale(String language) => language.contains('_')
 final kTranslationsMap = <Map<String, Map<String, String>>>[
   // HomePage
   {
-    'j2tcgsgo': {
-      'en': 'Page Title',
-      'fi': '',
-    },
     'mti4f3lf': {
       'en': 'Home',
       'fi': '',
     },
   },
-  // Login1
+  // MainView
   {
-    'cf05c0g4': {
-      'en': 'brand.ai',
+    'nh7ecoou': {
+      'en': 'Main View',
       'fi': '',
     },
-    'mrs5fmli': {
-      'en': 'Welcome Back',
-      'fi': '',
-    },
-    '49mi4pdo': {
-      'en': 'Let\'s get started by filling out the form below.',
-      'fi': '',
-    },
-    'jm6jbop0': {
-      'en': 'Email',
-      'fi': '',
-    },
-    'omhdnhqz': {
-      'en': 'Password',
-      'fi': '',
-    },
-    'ytr27k37': {
-      'en': 'Sign In',
-      'fi': '',
-    },
-    'ffd41p73': {
-      'en': 'Don\'t have an account? ',
-      'fi': '',
-    },
-    '7zru9quk': {
-      'en': ' Sign Up here',
-      'fi': '',
-    },
-    'wq8d3as5': {
+    'g1k1055w': {
       'en': 'Home',
       'fi': '',
     },
